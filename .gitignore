@@ -1,0 +1,11 @@
+*.docx
+/Referance
+/hostel/node_modules
+/hostel/.vscode
+/hostel/vendor/composer
+/hostel/vendor/mongodb
+/hostel/fpdf/*
+*.vsdx
+*.pptx
+*.doc
+/hostel/assets/fontawesome
